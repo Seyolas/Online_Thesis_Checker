@@ -1,0 +1,29 @@
+
+Tezin İçeriği Ve Konusu:
+
+İSTANBUL ESENYURT ÜNİVERSİTESİ FEN BİLİMLERİ ENSTİTÜSÜ İŞ SAĞLIĞI VE GÜVENLİĞİ ANABİLİM DALI İŞ SAĞLIĞI VE GÜVENLİĞİ BİLİM DALI
+İŞ SAĞLIĞI VE GÜVENLİĞİNDE MAKROFORM ETKİLERİN İNCELENMESİ FIRAT ÜNİVERSİTESİ VE BİNGÖL ÜNİVERSİTESİ ÖRNEK ANALİZİ
+Yüksek Lisans Tezi
+Tezi Hazırlayan:
+Onur Ersen KARA
+İstanbul, 2019
+
+
+Tezinizde ayrı bir 'TEŞEKKÜR' alanı bulunmamalıdır! 'ÖNSÖZ' içinde yer vermeniz gerekir. 
+
+
+Giriş bölümünün son paragrafında tezin organizasyonu ve kapsamına yer verilmiştir. 
+
+
+Lütfen gereken kurallara uyarak önce 'ŞEKİLLER LİSTESİ' ardından 'TABLOLAR LİSTESİ'ni yazınız.
+
+Tezinizde 'EKLER LİSTESİ' bulunmuyor.
+
+Tezinizde  KAYNAKLAR bölümünden sonra gelmesi gereken 'EKLER' içeriğinin bulunmadığını tespit ettik.(Bu düzeltmeniz gereken bir hata değildir) 
+
+                  Fakat 'EKLER' bölümünü kullanmadıysanız KAYNAKLAR bölümünden sonra ÖZGEÇMİŞ bilgilerinizi yazmanız gerekir.
+
+                  Zaten ÖZGEÇMİŞ bilgilerinizi yazdıysanız lütfen başlık kısmını ÖZGEÇMİŞ yapınız.(Aksi takdirde bu hatayı almaya devam edeceksiniz ve kaynak sayınızı hesaplayamayacağız.)
+
+('kaynakların ', 18, 'tanesi internet sitesidir.')
+Tezinizde blok atıf verme bulunamadı

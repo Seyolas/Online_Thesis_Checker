@@ -1,0 +1,19 @@
+
+Tezin İçeriği Ve Konusu:
+
+T.C
+FIRAT ÜNİVERSİTESİ
+FEN BİLİMLERİ ENSTİTÜSÜ
+FIRAT ÜNİVERSİTESİ’NDE ÖĞRENİM GÖREN ÖĞRENCİLERİN BALIK TÜKETİM TERCİHLERİNİN BELİRLENMESİ
+Yüksek Lisans Tezi
+Ayfer ÖNDAŞ
+
+
+önsözde hata bulunamadı.('İlk paragrafta teşekkür bulunmuyor.')
+
+Giriş bölümünün son paragrafında tezin organizasyonu ve kapsamına yer verilmiştir. 
+
+(14, 'adet şekil bulunmaktadır.')
+Tezinizde 'EKLER LİSTESİ' bulunmuyor.
+(62, 'adet kaynak bulunmaktadır.')kaynaklarda hiç internet sitesi bulunmuyor.
+Tezinizde blok atıf verme bulunamadı

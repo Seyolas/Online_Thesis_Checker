@@ -1,0 +1,17 @@
+
+Tezin İçeriği Ve Konusu:
+
+T.C.
+FIRAT ÜNİVERSİTESİ
+FEN BİLİMLERİ ENSTİTÜSÜ
+POLİKRİSTAL ŞEKİL HAFIZALI NİAL ALAŞIMLARININ MODELLENMESİ VE YAPISAL ÖZELLİKLERİNİN İNCELENMESİ
+Oğuzhan ORHAN
+Yüksek Lisans Tezi
+
+
+önsözde hata bulunamadı.('İlk paragrafta teşekkür bulunmuyor.')
+
+Giriş bölümünün son paragrafında tezin organizasyonu ve kapsamına yer verilmiştir. 
+
+(47, 'adet şekil bulunmaktadır.')(15, 'adet tablo bulunmaktadır.')(92, 'adet kaynak bulunmaktadır.')('kaynakların ', 13, 'tanesi internet sitesidir.')
+Tezinizde blok atıf verme bulunamadı
