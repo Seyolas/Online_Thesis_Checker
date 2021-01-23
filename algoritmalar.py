@@ -1,5 +1,6 @@
 import io
 import docx
+#KODU OKUMAYA EN ALT SATIRDAKİ PROCESS METODUNDAN BAŞLAYABİLİRSİNİZ.
 
 def içerik_hesapla(dosya):
     output = '''\nTezin İçeriği Ve Konusu:
