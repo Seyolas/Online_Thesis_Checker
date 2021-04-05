@@ -17,4 +17,5 @@ yazılmadığının test edilmesini sağlayan bir web uygulaması geliştirdim.
 
 3-)Example Result
 
-![Ekran Görüntüsü (44)](https://user-images.githubusercontent.com/39236950/113598681-2ce4c780-9646-11eb-934b-9d9da2f152ce.png)
+![Ekran Görüntüsü (45)](https://user-images.githubusercontent.com/39236950/113599044-ba281c00-9646-11eb-8678-e8f804486b69.png)
+
