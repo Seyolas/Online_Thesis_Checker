@@ -7,6 +7,8 @@ yazılmadığının test edilmesini sağlayan bir web uygulaması geliştirdim.
 
 ![Hnet com-image](https://user-images.githubusercontent.com/39236950/113597238-13db1700-9644-11eb-9a63-af3cd8a36c05.gif)
 
-Example Result (Örnek sonuç)
+Example Results (Örnek sonuçlar)
+
 ![Ekran Görüntüsü (42)](https://user-images.githubusercontent.com/39236950/113598109-4df8e880-9645-11eb-93e1-eca8d5180469.png)
 
+![Ekran Görüntüsü (43)](https://user-images.githubusercontent.com/39236950/113598359-b0ea7f80-9645-11eb-89b8-a8407db94f4d.png)
