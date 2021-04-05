@@ -1,4 +1,4 @@
-![54ghee](https://user-images.githubusercontent.com/39236950/113595816-32401300-9642-11eb-98f7-4a167664bc7d.gif)
+![54gihf](https://user-images.githubusercontent.com/39236950/113596694-5bad6e80-9643-11eb-90d7-b97f34ff8cce.gif)
 
 
 Yüksek lisans veya doktora öğrencilerinin yazmış oldukları tez dökümanlarının, tez kriterlerine uygun bir şekilde yazılıp
