@@ -1,5 +1,6 @@
 I have developed a web application that allows you to test whether the thesis documents written by
 master's or doctoral students are written in accordance with the thesis criteria.
+Link: https://online-thesis-checker.herokuapp.com/
 
 Yüksek lisans veya doktora öğrencilerinin yazmış oldukları tez dökümanlarının, tez kriterlerine uygun bir şekilde yazılıp
 yazılmadığının test edilmesini sağlayan bir web uygulaması geliştirdim.
